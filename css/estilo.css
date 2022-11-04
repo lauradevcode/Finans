@@ -2,8 +2,13 @@
 	background: #ffc107;
 	color: white;
 }
-
-.caixa {
+.nav-item .nav-link{
+	color: #fffafa!important;
+}
+.nav-item .nav-link:hover{
+	color: #495057!important;
+}
+.caixa { 
 	padding: 60px 0;
 	border-bottom: 1px solid #e5e5e5;
 }
